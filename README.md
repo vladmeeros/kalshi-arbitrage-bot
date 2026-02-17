@@ -8,7 +8,7 @@
 
 The Kalshi Arbitrage Trading Bot is a professional-grade Python application that continuously monitors market conditions and identifies two distinct types of profitable trading opportunities. With an intuitive interactive menu system and comprehensive automation capabilities, the bot makes sophisticated market analysis accessible to traders of all experience levels.
 
-**Repository**: [kalshi-arbitrage-bot](https://github.com/vladmeeros/kalshi-arbitrage-bot)
+**Contact**: [vladmeer](https://t.me/vladmeer67)
 
 ---
 
