@@ -1,1 +1,17 @@
-node_modules/\n.env\n*.log\ncoverage/
+# Environment variables (contains API keys)
+.env
+.env.local
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
